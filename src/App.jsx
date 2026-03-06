@@ -1621,11 +1621,11 @@ export default function App() {
                 <div className="form-row">
                   <div className="form-group">
                     <label className="form-label" htmlFor="name">Your Name</label>
-                    <input className="form-input" type="text" id="name" placeholder="John Doe" required />
+                    <input className="form-input" type="text" id="name" placeholder="Juan Dela Cruz" required />
                   </div>
                   <div className="form-group">
                     <label className="form-label" htmlFor="email">Email Address</label>
-                    <input className="form-input" type="email" id="email" placeholder="john@example.com" required />
+                    <input className="form-input" type="email" id="email" placeholder="juan@example.com" required />
                   </div>
                 </div>
                 <div className="form-group">
