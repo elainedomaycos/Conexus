@@ -152,10 +152,10 @@ const TEAM = [
   },
   {
     name: "Alvin Aloya",
-    role: "Full Stack Developer",
+    role: "Full Stack Developer/Cloud Engineer",
     avatar: alvinImage,
-    linkedin: "https://linkedin.com/in/alvin",
-    facebook: "https://facebook.com/alvin",
+    linkedin: "https://www.linkedin.com/in/alvin-aloya-45248b340/",
+    facebook: "https://www.facebook.com/alvin.sucke/",
   },
   {
     name: "Francis Gil Aloya",
