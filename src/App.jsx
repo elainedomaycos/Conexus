@@ -147,8 +147,8 @@ const TEAM = [
     name: "Elaine Domaycos",
     role: "Project Manager/ UI-UX Designer/ Front-end Developer",
     avatar: elaineImage,
-    linkedin: "https://linkedin.com/in/elainedomaycos",
-    facebook: "https://facebook.com/elainedomaycos",
+    linkedin: "https://www.linkedin.com/in/ma-kassandra-elaine-domaycos/",
+    facebook: "https://www.facebook.com/elaine.domaycos.1",
   },
   {
     name: "Alvin Aloya",
